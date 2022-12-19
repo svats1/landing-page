@@ -152,6 +152,7 @@ body {
     align-self: center;
     border-color: white;
     border-width: 3px;
+    border-style: solid;
 }
 .calltoaction {
     font-size: 22px;
